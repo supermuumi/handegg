@@ -5,6 +5,7 @@ This Chrome extension lets you browse the web without getting all antsy when you
 ## TODO - High prio
 
 * Decipher if the page is really talking about handegg and not actual football
+* Support other browsers
 
 ## TODO - Low prio
 
