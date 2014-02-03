@@ -1,6 +1,6 @@
-American Handegg is not football. It's handegg.
+American Handegg is not football. It's handegg. For reference, see http://i629.photobucket.com/albums/uu19/Bullseye2620/633692057194761860-handegg.jpg
 
-http://i629.photobucket.com/albums/uu19/Bullseye2620/633692057194761860-handegg.jpg
+This Chrome extension lets you browse the web without getting all antsy when you see handegg being talked about as something else than handegg. 
 
 ## TODO - High prio
 
