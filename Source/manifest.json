@@ -1,0 +1,15 @@
+{
+	"manifest_version": 2,
+	"name": "Handegg",
+	"version": "0.1",
+	"description": "Handegg!",
+	"content_scripts": 
+	[
+		{
+			"matches": ["*://*/*"],
+			"js": ["content_script.js"],
+			"run_at": "document_end"
+		}
+	]
+}
+
